@@ -1,2 +1,2 @@
 # mlm_harbal_product_edu_digital
-mlmharbal
+mlm-project
